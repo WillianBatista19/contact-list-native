@@ -6,7 +6,7 @@ import ContactsScreen from '../screens/contactsScreen';
 import ContactDetailScreen from '../screens/contactDetailScreen';
 import { RootStackParamList } from '../types'; 
 
-const Stack = createStackNavigator<RootStackParamList>(); // Usa o tipo para criar o Stack
+const Stack = createStackNavigator<RootStackParamList>();
 
 const App = () => {
   return (

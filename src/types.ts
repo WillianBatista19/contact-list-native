@@ -11,3 +11,4 @@ export interface Contact {
     ContactDetail: { id: number }; 
   };
   
+  
